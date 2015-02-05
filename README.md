@@ -1,4 +1,4 @@
 Java
 =================
 
-Java web projects and Java application
+Java web projects
